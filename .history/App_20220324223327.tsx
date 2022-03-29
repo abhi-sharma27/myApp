@@ -7,8 +7,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container} >
-        <Text>Hello, Abhi Sharma !</Text>
-      
+        <Text>Hello, Abhi Sharma. i am working</Text>
         <StatusBar style="auto" />
       </View>
     );
